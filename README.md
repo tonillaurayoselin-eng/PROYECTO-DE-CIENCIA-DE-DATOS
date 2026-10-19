@@ -15,7 +15,13 @@ Aquí reúno los proyectos, análisis e investigaciones que he desarrollado a lo
 | Proyecto | Descripción | Estado |
 |---|---|---|
 | 🧘‍♀️ Revisión Sistemática de Literatura | Estrés académico en estudiantes universitarios en épocas de exámenes | ✅ Completo |
-| 🔜 Próximo proyecto | *Por agregar* | ⏳ Pendiente |
+| 🔜 TDSP | Estimación de sintomas depresivos en adultos mayores | ✅ Completo |
+| 🔜 SEMMA | Estimación de sintomas depresivos en adultos mayores | ✅ Completo |
+| 🔜 CRISP-DM | Estimación de sintomas depresivos en adultos mayores | ✅ Completo |
+| 🔜 KDD | Estimación de sintomas depresivos en estudiantes | ✅ Completo |
+
+
+
 
 ## 🛠️ Tecnologías y temas
 
@@ -28,8 +34,6 @@ Aquí reúno los proyectos, análisis e investigaciones que he desarrollado a lo
 ## 🚀 Objetivo
 
 Este espacio refleja mi proceso de aprendizaje: pensamiento crítico 🧩, rigor metodológico 🔬 y curiosidad constante para resolver problemas reales a través de los datos.
-
-> 🌱 Este repositorio está en constante actualización. ¡Vuelve pronto para ver nuevos proyectos!
 
 ---
 
